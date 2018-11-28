@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DE JSON Test</string>
+
+    <string name="author_name">Author: %1$s</string>
+</resources>
